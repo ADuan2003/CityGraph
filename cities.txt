@@ -1,0 +1,4 @@
+0 Boston 1 Providence 2 New_Haven 3 New_York 4 Albany 5 Buffalo 6 Trenton 7 Philadelphia 8 Baltimore 9 Washington 10 Pittsburgh 11 Cleveland 12 Chicago 13 Detroit 
+14 Milwaukee 15 Twin_Cities 16 Seattle 17 Portland 18 Bay_Area 19 Los_Angeles 20 San_Diego 21 Phoenix 22 El_Paso 23 San_Antonio 24 Houston 25 New_Orleans 26 Memphis 
+27 Birmingham 28 Atlanta 29 Charlotte 30 Indianapolis 31 Cincinnati 32 Hampton_Roads 33 Raleigh 34 Columbia_SC 35 Jacksonville 36 Orlando 37 Tampa 38 Miami 39 Salt_Lake_City 
+40 Grand_Canyon 41 Denver 42 Kansas_City_MO 43 Omaha 44 Saint_Louis 45 DFW 46 Oklahoma_City
